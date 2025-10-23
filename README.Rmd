@@ -18,6 +18,7 @@ Typical contents:
 - Creating a basic `README.md`
 - Initializing Git with `git init`
 add an edit
+another line added
 
 
 ```{r first-commit-example, eval=FALSE}
